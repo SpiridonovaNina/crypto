@@ -1,0 +1,29 @@
+﻿update
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   lab1/caesar
+#	new file:   lab1/vizhiner
+#	new file:   lab2/DESCoder.cpp
+#	new file:   lab2/DESCoder.h
+#	new file:   lab2/Makefile
+#	new file:   lab2/main.cpp
+#	new file:   lab3/stegwavein.py
+#	new file:   lab3/stegwaveout.py
+#	new file:   lab4/GUI12.py
+#	new file:   lab4/GUISteg.py
+#	new file:   lab4/funcs.py
+#	new file:   library/Makefile
+#	new file:   library/libmyLib.so
+#	new file:   library/myLib.cpp
+#	new file:   library/myLib.h
+#
+# Changes not staged for commit:
+#	modified:   lab1/caesar (modified content)
+#	modified:   lab1/vizhiner (modified content)
+#
+
